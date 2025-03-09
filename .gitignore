@@ -38,3 +38,5 @@ Dockerfile
 
 # Ignore data
 data/
+floats.bin
+.sesskey
