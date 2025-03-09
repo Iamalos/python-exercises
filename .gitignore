@@ -36,3 +36,5 @@ Thumbs.db       # Windows
 *.dockerignore
 Dockerfile
 
+# Ignore data
+data/
